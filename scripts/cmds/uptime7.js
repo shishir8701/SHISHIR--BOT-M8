@@ -4,7 +4,7 @@ const { execSync } = require("child_process");
 
 module.exports = {
   config: {
-    name: "uptime",
+    name: "uptime7",
     version: "0.0.7",
     author: "Azadx69x",
     countDown: 5,
