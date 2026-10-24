@@ -190,7 +190,7 @@ function drawSignalBars(ctx, x, y, pct, color, w = 20, h = 12, bars = 5) {
 
 module.exports = {
     config: {
-        name:        "system",
+        name:        "system3",
         aliases:     ["sysinfo", "sys"],
         version:     "1.0.0",
         author:      "SIFAT",
