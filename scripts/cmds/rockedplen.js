@@ -1,7 +1,7 @@
 module.exports = {
   config: {
     name: "rockedplen",
-    aliases: ["rocket", "crash"],
+    aliases: ["rocket", "crash2"],
     version: "1.0.0",
     author: "𝑨𝑹𝑰𝒀𝑨𝑵",
     countDown: 3,
